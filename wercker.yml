@@ -1,4 +1,4 @@
-#wercker
+#wercker-
 box: ubuntu
 build:
   steps:
